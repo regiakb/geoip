@@ -5,5 +5,5 @@ CSV file to GeoIP
 # How to use:
 pip install -r requirements.txt
 
-python geoip.py IP.csv
+python3 geoip.py IP.csv
 
